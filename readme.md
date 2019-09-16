@@ -3,10 +3,10 @@
 ## To do list
 * [x] Compare player move with computer move
 
-* [] Show image of player move on "You" block
+* [ ] Show image of player move on "You" block
 
-* [] Show image of computer move on "Computer" block
+* [ ] Show image of computer move on "Computer" block
 
-* [] Add score count
+* [ ] Add score count
 
-* [] Add restart button
+* [ ] Add restart button
